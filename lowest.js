@@ -11,5 +11,5 @@ const lowestFn =  function lowest(A) {
 }
 
 
-
+module.exports = lowestFn
 
